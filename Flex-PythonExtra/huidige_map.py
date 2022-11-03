@@ -4,7 +4,6 @@ werkmap = os.getcwd()
 
 print("De huidige map is:" + werkmap)
 
-
 mapnaam = ""
 
 lengte_mapnaam = 0
